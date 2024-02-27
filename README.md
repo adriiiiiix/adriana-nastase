@@ -5,7 +5,7 @@ Screenshots
 
 
 # Personal Portfolio
-A glimpse into a web development expertise of a fictional character. Explore a selection of interactive and responsive websites, crafted with the latest technologies such as ReactJS, Vanilla JavaScript, RESTful API, CSS, SASS, SCSS, Tailwind, and HTML. Showcasing their skills and experience in designing and developing top-notch web solutions. Please not that the name and contact details of this person are fictional. 
+A glimpse into a web development expertise of a real character. Explore a selection of interactive and responsive websites, crafted with the latest technologies such as ReactJS, Vanilla JavaScript, RESTful API, CSS, SASS, SCSS, Tailwind, and HTML. Showcasing their skills and experience in designing and developing top-notch web solutions. Please not that the name and contact details of this person are fictional. 
 
 
 ## Built With
