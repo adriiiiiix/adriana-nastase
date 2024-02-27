@@ -21,7 +21,7 @@ const Stack = () => {
         <li>Wordpress</li>
         <li>Microsoft Office</li>
         <li>Jira</li>
-        <li>Testrails</li>
+        <li>TestRail</li>
         <li>Figma</li>
       </ol>
     </React.Fragment>

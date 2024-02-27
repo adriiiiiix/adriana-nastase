@@ -9,6 +9,8 @@ const Languages = () => {
         <p>Intermediate proficiency</p>
         <h3>Spanish</h3>
         <p>Elementary proficiency</p>
+        <h3>Italian</h3>
+        <p>Elementary proficiency</p>
         <h3>French</h3>
         <p>Elementary proficiency</p>
       </section>
