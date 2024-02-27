@@ -8,10 +8,6 @@ const experienceData = [
     location: "Bucharest, Romania",
     responsibility: [
       `-`,
-      `-`,
-      `-`,
-      `-`,
-      `-`,
     ],
   },
   {
@@ -23,10 +19,28 @@ const experienceData = [
     location: "Bucharest, Romania",
     responsibility: [
       `-`,
+    ],
+  },
+  {
+    id: 3,
+    jobtitle: "Student Internship",
+    companyname: "Bucharest Information Technology Municipal Company",
+    worktype: "Part-Time",
+    duration: "May 2020 - Jul 2020",
+    location: "Bucharest, Romania",
+    responsibility: [
       `-`,
+    ],
+  },
+  {
+    id: 4,
+    jobtitle: "Crew Trainee",
+    companyname: "McDonald's",
+    worktype: "Full-Time",
+    duration: "Jun 2019 - Sep 2019",
+    location: "Bucharest, Romania",
+    responsibility: [
       `-`,
-      `-`,
-      `-`
     ],
   }
 ];
