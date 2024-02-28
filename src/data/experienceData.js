@@ -65,29 +65,29 @@ const educationData = [
 
 const certificationData = [
   {
-    name: "Certificate of Excellence",
-    source: "Romanian American University",
-    date: "Issued Oct 2023 · No Expiration Date"
+    name: "Frontend Development Libraries",
+    source: "freeCodeCamp",
+    date: "Issued Dec 2023 · No Expiration Date"
   },
   {
-    name: "3rd place - The Student Scientific Communications Session",
-    source: "University of Michigan",
-    date: "Issued May 2023 · No Expiration Date"
+    name: "Responsive Web Design",
+    source: "freeCodeCamp",
+    date: "Issued Dec 2023 · No Expiration Date"
   },
   {
-    name: "2nd place - The Student Scientific Communications Session",
-    source: "Romanian American University",
-    date: "Issued Dec 2022 · No Expiration Date"
+    name: "The Ultimate HTML5 & CSS3 Series: Part 3",
+    source: "Code With Mosh",
+    date: "Issued Jul 2021 · No Expiration Date"
   },
   {
-    name: "2nd place - The Student Scientific Communications Session",
-    source: "Romanian American University",
-    date: "Issued Apr 2022 · No Expiration Date"
+    name: "The Ultimate HTML5 & CSS3 Series: Part 2",
+    source: "Code With Mosh",
+    date: "Issued Jul 2021 · No Expiration Date"
   },
   {
-    name: "1st place - The Student Scientific Communications Session",
-    source: "Romanian American University",
-    date: "Issued Dec 2021 · No Expiration Date"
+    name: "The Ultimate HTML5 & CSS3 Series: Part 1",
+    source: "Code With Mosh",
+    date: "Issued Jul 2021 · No Expiration Date"
   },
 ];
 
